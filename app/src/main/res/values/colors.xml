@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- Light mode -->
+    <color name="light_primary">#806443</color>
+    <color name="light_on_primary">#FFFFFF</color>
+    <color name="light_primary_container">#E1BB80</color>
+    <color name="light_on_primary_container">#352208</color>
+    <color name="light_secondary">#685634</color>
+    <color name="light_on_secondary">#FFFFFF</color>
+    <color name="light_background">#FBF3E4</color>
+    <color name="light_on_background">#352208</color>
+    <color name="light_surface">#F3E7CF</color>
+    <color name="light_on_surface">#352208</color>
+    <color name="light_outline">#7B6B43</color>
+
+    <!-- Dark mode -->
+    <color name="dark_primary">#E1BB80</color>
+    <color name="dark_on_primary">#352208</color>
+    <color name="dark_primary_container">#685634</color>
+    <color name="dark_on_primary_container">#FBF3E4</color>
+    <color name="dark_secondary">#7B6B43</color>
+    <color name="dark_on_secondary">#FBF3E4</color>
+    <color name="dark_background">#241606</color>
+    <color name="dark_on_background">#FBF3E4</color>
+    <color name="dark_surface">#352208</color>
+    <color name="dark_on_surface">#FBF3E4</color>
+    <color name="dark_outline">#806443</color>
+
 </resources>
